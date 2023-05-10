@@ -2,8 +2,11 @@
     height: 600px;
 }
 body {
-    padding-top: 50px;
+    padding-top: 50px 0;
     font-family: 'Raleway', sans-serif;
+}
+.footer {
+    margin-bottom: -20px; !important;
 }
 .hakkimizda {
     background-color: #f2f2f2;
